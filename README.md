@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Dmitrii  👋</h1>
+<h2 align="center">Hi, I'm Dmitrii 👋</h1>
 <h3 align="center">Java developer 🤖</h3>
 
 <p align="center"> 
@@ -20,4 +20,4 @@
 <!---
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ads&show_icons=true&locale=en" alt="ads" /></p>
 --->
-<h3 align="center">📫 daimdml@gmial.com</h3>
+<h3 align="center">📫 daimdml@gmail.com</h3>
