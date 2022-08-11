@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Dmitrii 👋</h1>
+<h2 align="center">Hi, I'm Dmitriy 👋</h1>
 <h3 align="center">Java developer 🤖</h3>
 <p align="center"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
